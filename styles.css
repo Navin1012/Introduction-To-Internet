@@ -1,0 +1,27 @@
+.main {
+    padding-left: 5rem;
+    padding-right: ;
+    background-color: rgb(227, 205, 165);
+}
+
+.main h1 {
+    font-size: 5rem;
+    color: rgb(97, 70, 23);
+}
+
+.main h2 {
+    font-size: 3rem;
+}
+
+.main img {
+    width: 33rem;
+    margin-left: 20rem;
+}
+
+.main p {
+    font-size: 2rem;
+}
+
+.main h3 {
+    font-size: 4rem;
+}
